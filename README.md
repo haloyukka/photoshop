@@ -1,1 +1,1 @@
-# phoshop
+# photoshop
